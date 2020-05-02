@@ -1,6 +1,6 @@
 # Diamond-Price-Predictor
 A Linear Regression model that predicts the price of the diamond.</br>
-The model is train on a dataset containing the attributes of almost 54,000 diamonds.
+The model is trained on a dataset containing the attributes of almost 54,000 diamonds.
 
 ### List of features
 * price: price in US dollars (\$326--\$18,823)
@@ -18,7 +18,6 @@ The Diamonds.ipynb has a detailed explaination and code for exploratory data ana
 using Tensorflow.
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine.
 
 ### Prerequisites
 You should first install all the dependency libraries by running the following command
