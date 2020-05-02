@@ -2,6 +2,11 @@
 A Linear Regression model that predicts the price of the diamond.</br>
 The model is trained on a dataset containing the attributes of almost 54,000 diamonds.
 
+### Matrix
+* loss: 364475.0000 
+* mae: 328.6099 
+* mse: 364475.0000
+
 ### List of features
 * price: price in US dollars (\$326--\$18,823)
 * carat: weight of the diamond (0.2--5.01)\n
