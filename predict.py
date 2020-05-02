@@ -30,7 +30,7 @@ def predictPrice(carat, cut, color, clarity, x, y, z):
         z {float} : depth in mm.
 
     Returns:\n
-        Integer : The price of the diamond
+        Float : The price of the diamond
     """
     dataDF = getFormattedDF(carat, cut, color, clarity, x, y, z)
     price = model.predict(dataDF)
